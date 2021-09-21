@@ -1,0 +1,3 @@
+Направление: компьютерное зрение.
+Конкретика: Chest X-ray Disease Classification
+Датасет: https://www.kaggle.com/nih-chest-xrays/data
